@@ -5,7 +5,7 @@ import React from "react";
 
 const Layout = ({
   children,
-  title = "GrowFX Investments",
+  title = "GrepFX Investments",
 }: {
   title?: string;
   children: React.ReactNode;
